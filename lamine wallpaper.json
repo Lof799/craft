@@ -6,10 +6,10 @@
   
   "AdsController": {
       
-    "BannerNetwork"         : "promote",
-    "InterstitialNetwork"   : "promote",
+    "BannerNetwork"         : "admob",
+    "InterstitialNetwork"   : "admob",
     "RewardNetwork"         : "admob",
-    "NativeNetwork"         : "promote",
+    "NativeNetwork"         : "admob",
     
     "AdMob_ID"               : "pub-6884761987914070",
     "AdMob_Banner"           : "ca-app-pub-6884761987914070/7778769970",
