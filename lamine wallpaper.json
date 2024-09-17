@@ -1,0 +1,329 @@
+{
+  "appRedirect": {
+    "status": false,
+    "redirectURL": ""
+  },
+  
+  "AdsController": {
+      
+    "BannerNetwork"         : "promote",
+    "InterstitialNetwork"   : "promote",
+    "RewardNetwork"         : "admob",
+    "NativeNetwork"         : "promote",
+    
+    "AdMob_ID"               : "pub-6884761987914070",
+    "AdMob_Banner"           : "ca-app-pub-6884761987914070/7778769970",
+    "AdMob_InterstitialAd"   : "ca-app-pub-6884761987914070/9927283564",
+    "AdMob_RewardAd"         : "ca-app-pub-6884761987914070/5152606636",
+    "AdMob_Native"           : "ca-app-pub-6884761987914070/6873916255",
+    
+    "Applovin_Banner"        : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd": "d5a67a7b679c9a38",
+    "Applovin_RewardAd"      : "a5f235ba1320fb35",
+    "Applovin_Native"        : "a5f235ba1320fb35",
+
+    "Unity_GameID"           : "4076527",
+    "Unity_Banner"           : "BannerAd",
+    "Unity_InterstitialAd"   : "InterstitialAd",
+    "Unity_RewardAd"         : "rewardedVideo",
+    
+    "IronSourceKey"          : "1197d7c85",
+    
+    "PromoteURL"                 : "https://raw.githubusercontent.com/saidmotya/GFX-AdPromote/master/ScreenShot/MyPromote.json"
+  },
+  
+  
+  "Wallpaper": [
+    {
+      "category" : "Lamine",
+      "preview"  : "https://www.fcbarcelona.com/photo-resources/2024/07/17/7d2a9118-df2e-44eb-83ea-42fe6ea2eb57/3200x2000-lamine-19pascual.jpg?width=1200&height=750"
+    },
+    {
+      "category" : "Yamal",
+      "preview"  : "https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/2DKGS33DL5H2NIVZEPI4JMB42E.PNG"
+    },
+    {
+      "category" : "Barcelona",
+      "preview"  : "https://www.fcbarcelona.com/photo-resources/2024/07/17/d6823ed5-f8f9-48c8-a892-a077dccf6354/fitxa-Lamine-Yamal.jpg?width=1200&height=750"
+    },
+    {
+      "category" : "Spain",
+      "preview"  : "https://icdn.football-espana.net/wp-content/uploads/2024/03/Lamine-Yamal-Spain-new-kit.jpeg"
+    },
+    {
+      "category" : "2024",
+      "preview"  : "https://cdn.resfu.com/media/img_news/creatividad-por-la-renovacion-de-lamine-yamal-con-el-barcelona--besoccer.png?size=1000x&lossy=1&ext=jpeg"
+    },
+    {
+      "category" : "4k",
+      "preview"  : "https://i.makeagif.com/media/1-13-2024/3zavSU.gif"
+    },
+    {
+      "category" : "Football",
+      "preview"  : "https://media1.tenor.com/m/KgweW_DTDzYAAAAC/lamine-yamal-and-nico-williams.gif"
+    },
+    {
+      "category" : "Highlights",
+      "preview"  : "https://64.media.tumblr.com/38cb4edb0633ff2d58d94724e9b9d410/ef952593ae045752-13/s540x810/7331ac511e4992b15f44edfa8034bf17b8b2a1d4.gifv"
+    }
+  ],
+
+
+
+  "Lamine": [
+    {
+      "image": "https://i.pinimg.com/736x/a4/50/b0/a450b065d6ef8cf5d4f4f201291e8d25.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/cc/95/03/cc9503532170cdf7b0cf932af247bfb4.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/9a/f4/da/9af4dae87bc041186831f185cf7e66f3.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/97/3c/08/973c08dbcbc765c864da0b789e43f7ce.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/55/9a/b8/559ab87105721ee6778fb7478905e51d.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/ba/ea/16/baea1608ddcfd3e6477b46cbbc208bc4.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/6c/6e/c6/6c6ec6600be58be9b1a3fe4dbe88aaa9.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/21/9a/5d/219a5da03a599b93105d40793e26e409.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/a8/06/0d/a8060d24c6b217691823c716406e1a3d.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/29/9c/40/299c40baaff0450dd2e3ec890f6f45e5.jpg",
+      "premium": false
+    }
+  ],
+  "Yamal": [
+    {
+      "image": "https://i.pinimg.com/736x/71/ec/7b/71ec7bfc87b0390f7205cdd4d2d82141.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/46/46/c2/4646c2860c94874e941d8aaed7f0e447.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/a6/30/f8/a630f843a2cc77b854016b9345df563a.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/89/34/83/893483c1841fc4837e1c8f2328facd25.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/19/16/7d/19167d728fdb376e5b4c6e96e9f32d87.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/df/1c/7e/df1c7e3af12e5229399f8ef672c67a35.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/7d/38/26/7d38263adb5c98aeb29f45f8b2dbaca0.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/5c/82/07/5c8207ad9057928d1d76783fd81b8bf9.jpg",
+      "premium": false
+    }
+  ],
+  "Barcelona": [
+    {
+      "image": "https://i.pinimg.com/736x/7a/60/af/7a60afb971c718fe033a9cfe8e2e1981.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/30/91/0a/30910a3177609b5cb2cd5f9b00b470c2.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/1a/7b/13/1a7b139364eae4b50706c402436ecaed.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/c0/4f/40/c04f40aa0a6fee95c8b175c562052c4e.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/ae/e9/76/aee97664dcb6e61e0f4a486a5be24ee9.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/86/31/22/8631222ace236e94d2a106050b439cf7.jpg",
+      "premium": false
+    }
+  ],
+  "Spain": [
+    {
+      "image": "https://i.pinimg.com/736x/5e/a4/ca/5ea4ca51372c71d40b68f3bbd05d5fa3.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/de/ea/18/deea1840d4364c73162f621dadb752da.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/b4/0d/1f/b40d1fa3e4bd57217c8b892812d1f8cc.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/70/9f/1e/709f1e6401cd0f87259aefe8d92105a6.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/3b/9d/a5/3b9da5f20e15e3d6edce94017b892050.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/98/5c/92/985c9216b6cd7a09c3b4707a93417a58.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/72/7d/7c/727d7c67389a251ecb91e74bde81ab4c.jpg",
+      "premium": false
+    }
+  ],
+  "2024": [
+    {
+      "image": "https://i.pinimg.com/736x/b0/f7/97/b0f7971b1d65ad67d4346d2609bab8ae.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/f7/7c/f1/f77cf17fe88d721860400606c565bdeb.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/44/f5/88/44f5888a35b5a409f92cdf706a65568e.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/8d/ed/6a/8ded6a8e36216971ef62fc3afaed0f13.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/9d/f9/68/9df9685495df1929fe92c7fdecba3309.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/a6/f7/1d/a6f71d54df567034d1854cab3cad7512.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/38/c9/72/38c972c09f4983c9e8a2914c3d1ef192.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/93/18/87/9318877c4c2bb3e1fb584cb74a1725dc.jpg",
+      "premium": false
+    }
+  ],
+  "4k": [
+    {
+      "image": "https://i.pinimg.com/474x/bc/9a/e3/bc9ae3e6418d099b6c65fa171c7a6780.jpg",
+      "premium": false
+    }
+  ],
+  "Football": [
+    {
+      "image": "https://i.pinimg.com/736x/ba/9f/32/ba9f32726c0a9691c447042ab985831b.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/f9/5d/19/f95d198bcf49e41ecc638f8ab7b29e26.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/0b/38/0c/0b380ca417dd0aaf9923f113754846d3.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/e8/da/c7/e8dac7d5254e2b3d0aeb0b947195562b.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/7b/87/00/7b8700eeb7c093c142d16cdb8076dd8e.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/ee/96/1c/ee961c4497b0b416b806d045d0f879e4.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/2a/17/b0/2a17b0a57b8699531cf3079e1c3ac453.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/564x/b5/c5/9a/b5c59ab4755bb730190c02e458fb76d9.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/78/ad/bc/78adbc9e15fbd940aa9a7f7f234744ff.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/6a/a3/51/6aa351bcb5823f9e49405cdc9efb926d.jpg",
+      "premium": false
+    }
+  ],
+  "Highlights": [
+    {
+      "image": "https://i.pinimg.com/564x/f3/65/c9/f365c9f12f413793e50b41931dbe4b1e.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/38/e2/47/38e2474370dc9011a9fd7960a2eb4318.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/e7/2e/44/e72e44d9f25ae4e17b14c9e68675911c.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/59/c6/54/59c65459e44ab2fc3c4c3b277794db17.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/3f/05/68/3f0568a214846e10f40e91e206368e7f.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/6f/35/d3/6f35d3205cd3a0dbad1fd93d718bc8ae.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/a8/06/0d/a8060d24c6b217691823c716406e1a3d.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/96/3c/36/963c367246d344fa21b3775ce9dab602.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/474x/96/7c/fd/967cfde53bcc31d5180b8f1e5bf3529e.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://i.pinimg.com/736x/be/1a/63/be1a6341f14bfdea664f2e919c759b6d.jpg",
+      "premium": false
+    }
+  ]
+}
